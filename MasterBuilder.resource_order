@@ -1,0 +1,18 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"spr_eviken","order":2,"path":"sprites/spr_eviken/spr_eviken.yy",},
+    {"name":"spr_potion","order":3,"path":"sprites/spr_potion/spr_potion.yy",},
+    {"name":"obj_bullet","order":6,"path":"objects/obj_bullet/obj_bullet.yy",},
+    {"name":"obj_player_online","order":5,"path":"objects/obj_player_online/obj_player_online.yy",},
+    {"name":"spr_player_online","order":4,"path":"sprites/spr_player_online/spr_player_online.yy",},
+    {"name":"obj_spawner","order":4,"path":"objects/obj_spawner/obj_spawner.yy",},
+    {"name":"obj_potion","order":3,"path":"objects/obj_potion/obj_potion.yy",},
+    {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"spr_tool_build","order":6,"path":"sprites/spr_tool_build/spr_tool_build.yy",},
+    {"name":"spr_bullet","order":5,"path":"sprites/spr_bullet/spr_bullet.yy",},
+    {"name":"obj_monster","order":2,"path":"objects/obj_monster/obj_monster.yy",},
+    {"name":"spr_tool_gun","order":7,"path":"sprites/spr_tool_gun/spr_tool_gun.yy",},
+    {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
+  ],
+}
